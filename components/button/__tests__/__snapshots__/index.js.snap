@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button suite render a button 1`] = `
+<Button
+  color="default"
+>
+  default
+</Button>
+`;
